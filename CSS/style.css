@@ -1,0 +1,9 @@
+.img {
+
+    background-image: url("../Images/cover_Pepole.jpeg");
+    background-size: cover;
+    min-height: 300px;
+    align-content: center;
+    background-position: center;
+
+}
